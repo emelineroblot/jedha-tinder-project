@@ -1,0 +1,43 @@
+Description de l'entreprise 📇
+
+Tinder est une application de rencontres en ligne et de réseautage géosocial. Sur Tinder, les utilisateurs « swipent vers la droite » pour indiquer qu'ils aiment ou « swipent vers la gauche » pour indiquer qu'ils n'aiment pas le profil d'autres utilisateurs, qui comprend leurs photos, une courte biographie et une liste de leurs centres d'intérêt.
+Tinder a été lancé par Sean Rad lors d'un hackathon organisé à l'incubateur Hatch Labs à West Hollywood en 2012.
+En 2021, Tinder a enregistré plus de 65 milliards de matchs dans le monde entier.
+
+Projet 🚧
+
+L'équipe marketing a besoin d'aide pour un nouveau projet. Elle constate une baisse du nombre de matchs et cherche à comprendre ce qui suscite l'intérêt des utilisateurs les uns pour les autres.
+Elle a décidé de mener une expérience de speed dating avec des personnes qui ont dû fournir à Tinder de nombreuses informations les concernant, susceptibles d'apparaître dans leur profil sur l'application.
+Tinder a ensuite recueilli les données issues de cette expérience. Chaque ligne du jeu de données représente un speed dating entre deux personnes et indique si chacune d'entre elles a secrètement accepté de participer à un deuxième rendez-vous avec l'autre personne.
+
+Objectifs 🎯
+
+Utilisez l'ensemble de données pour comprendre ce qui incite les gens à s'intéresser les uns aux autres et à se revoir pour un deuxième rendez-vous :
+- Vous pouvez utiliser des statistiques descriptives.
+- Vous pouvez utiliser des visualisations.
+
+Portée de ce projet 🖼️
+
+Les données ont été recueillies auprès des participants à des événements expérimentaux de speed dating organisés entre 2002 et 2004. Au cours de ces événements, les participants avaient un « premier rendez-vous » de quatre minutes avec chaque autre participant du sexe opposé. À la fin des quatre minutes, on demandait aux participants s'ils souhaitaient revoir leur partenaire. Ils devaient également évaluer leur rendez-vous selon six critères : attractivité, sincérité, intelligence, sens de l'humour, ambition et intérêts communs.
+L'ensemble de données comprend également des questionnaires remplis par les participants à différents moments du processus. Ces questionnaires portaient sur les données démographiques, les habitudes en matière de rencontres, la perception de soi selon différents critères clés, les croyances sur ce que les autres recherchent chez un partenaire et le mode de vie. 
+
+Aides 🦮
+
+Pour vous aider à mener à bien ce projet, voici quelques conseils qui devraient vous être utiles
+
+Idées d'exploration des données :
+
+- Quels sont les attributs les moins recherchés chez un partenaire masculin ? Est-ce différent pour les partenaires féminines ?
+- Quelle importance les gens accordent-ils à l'attrait physique dans le choix d'un partenaire potentiel par rapport à son impact réel ?
+- Les intérêts communs sont-ils plus importants que l'origine ethnique commune ?
+- Les gens peuvent-ils prédire avec précision leur propre valeur perçue sur le marché des rencontres ?
+- Pour obtenir un deuxième rendez-vous, vaut-il mieux être le premier rendez-vous rapide de la soirée ou le dernier ?
+
+Livrable 📬
+
+Pour mener à bien ce projet, votre équipe doit fournir :
+
+Un notebook contenant :
+- des statistiques descriptives ;
+- des visualisations ;
+- des légendes et des interprétations expliquant en quoi les statistiques et les visualisations sont pertinentes pour comprendre pourquoi les gens acceptent un deuxième rendez-vous.
